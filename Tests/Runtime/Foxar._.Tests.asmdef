@@ -1,12 +1,10 @@
 {
-    "name": "Foxar.TEMPLATE.Editor.Tests",
+    "name": "Foxar._.Tests",
+    "rootNamespace": "Foxar._",
     "references": [
-        "Foxar.TEMPLATE",
-        "Foxar.TEMPLATE.Editor"
+        "Foxar._"
     ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

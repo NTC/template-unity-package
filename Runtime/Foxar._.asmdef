@@ -1,8 +1,7 @@
 {
-    "name": "Foxar.TEMPLATE.Tests",
-    "references": [
-        "Foxar.TEMPLATE"
-    ],
+    "name": "Foxar._",
+    "rootNamespace": "Foxar._",
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
@@ -10,8 +9,5 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": [],
-    "optionalUnityReferences": [
-        "TestAssemblies"
-    ]
+    "versionDefines": []
 }

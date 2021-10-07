@@ -1,7 +1,9 @@
 {
-    "name": "Foxar.TEMPLATE.Editor",
+    "name": "Foxar._.Editor.Tests",
+    "rootNamespace": "Foxar._",
     "references": [
-        "Foxar.TEMPLATE"
+        "Foxar._",
+        "Foxar._.Editor"
     ],
     "includePlatforms": [
         "Editor"
@@ -12,5 +14,8 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": []
+    "versionDefines": [],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ]
 }
